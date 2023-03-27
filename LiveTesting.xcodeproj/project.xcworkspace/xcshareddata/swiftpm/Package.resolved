@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "nuke",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Nuke",
+      "state" : {
+        "revision" : "3ed0597082b40932481fb8971af8813a4284203c",
+        "version" : "11.6.1"
+      }
+    },
+    {
+      "identity" : "skeletonview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Juanpe/SkeletonView.git",
+      "state" : {
+        "revision" : "739a4f5d78731bebc48811c75fa9e1f4c4cef23e",
+        "version" : "1.30.4"
+      }
+    },
+    {
+      "identity" : "twilio-video-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twilio/twilio-video-ios",
+      "state" : {
+        "revision" : "f5e46b3ccd5eba1cb5cf59cc64233c9d0f12480b",
+        "version" : "5.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
